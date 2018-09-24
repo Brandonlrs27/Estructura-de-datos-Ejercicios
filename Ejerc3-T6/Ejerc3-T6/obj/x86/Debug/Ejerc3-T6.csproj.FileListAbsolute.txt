@@ -1,0 +1,5 @@
+C:\Users\julianjavier\Desktop\Javi\F de programación\Ejercicios de clase\Tarea 6\Ejerc3-T6\Ejerc3-T6\bin\Debug\Ejerc3-T6.exe
+C:\Users\julianjavier\Desktop\Javi\F de programación\Ejercicios de clase\Tarea 6\Ejerc3-T6\Ejerc3-T6\bin\Debug\Ejerc3-T6.pdb
+C:\Users\julianjavier\Desktop\Javi\F de programación\Ejercicios de clase\Tarea 6\Ejerc3-T6\Ejerc3-T6\obj\x86\Debug\Ejerc3-T6.exe
+C:\Users\julianjavier\Desktop\Javi\F de programación\Ejercicios de clase\Tarea 6\Ejerc3-T6\Ejerc3-T6\obj\x86\Debug\Ejerc3-T6.pdb
+C:\Users\julianjavier\Desktop\Javi\F de programación\Ejercicios de clase\Tarea 6\Ejerc3-T6\Ejerc3-T6\obj\x86\Debug\Ejerc3-T6.csprojResolveAssemblyReference.cache
